@@ -9,6 +9,11 @@
 
 ###
 
+<h3 align="left">I'm coding with:</h3>
+
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -18,6 +23,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 </div>
+
+###
+
+<h3 align="left">And you can contact me through the following methods: <br> (Link is not working yet, please check the infomation within)</h3>
 
 ###
 
