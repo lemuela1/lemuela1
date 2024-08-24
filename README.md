@@ -65,3 +65,12 @@
 </div>
 
 ###
+<div align="center">
+  <a href="https://www.credential.net/embed/4b071fe6-a89c-43a0-b7bb-aa1133163933">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112646618"  />
+  <a href="https://www.credential.net/embed/15098caf-7776-4059-80bd-55eb92ab4c0c">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/111921995"  />
+  <a href="https://www.credential.net/embed/9f2e2007-ab6f-44ea-a465-6b68961fb69a">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/108916425"  />
+</div>
+
