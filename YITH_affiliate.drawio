@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uvfs7xpbPP3zaYpU90Q_-4" value="Free version of YITH Affiliate Plugin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="10" width="650" height="600" as="geometry" />
+          <mxGeometry x="270" width="650" height="600" as="geometry" />
         </mxCell>
         <mxCell id="uvfs7xpbPP3zaYpU90Q_-14" value="Procedure" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="uvfs7xpbPP3zaYpU90Q_-4">
           <mxGeometry y="30" width="650" height="450" as="geometry" />
@@ -81,14 +81,31 @@
         </mxCell>
         <mxCell id="uvfs7xpbPP3zaYpU90Q_-46" value="Keep track on&lt;br&gt;viewer&#39;s action" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uvfs7xpbPP3zaYpU90Q_-44">
           <mxGeometry x="-0.6133" y="-1" relative="1" as="geometry">
-            <mxPoint x="5" y="19" as="offset" />
+            <mxPoint x="-5" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uvfs7xpbPP3zaYpU90Q_-48" value="Referral Link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uvfs7xpbPP3zaYpU90Q_-14">
           <mxGeometry x="190" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uvfs7xpbPP3zaYpU90Q_-49" value="Purchase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uvfs7xpbPP3zaYpU90Q_-14">
+        <mxCell id="uvfs7xpbPP3zaYpU90Q_-49" value="Purchase and Record&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uvfs7xpbPP3zaYpU90Q_-14">
           <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uvfs7xpbPP3zaYpU90Q_-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="uvfs7xpbPP3zaYpU90Q_-14" source="uvfs7xpbPP3zaYpU90Q_-49" target="uvfs7xpbPP3zaYpU90Q_-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvfs7xpbPP3zaYpU90Q_-53" value="Commission" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="uvfs7xpbPP3zaYpU90Q_-14">
+          <mxGeometry x="440" y="120" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="uvfs7xpbPP3zaYpU90Q_-54" value="&lt;b&gt;Status: Pending, Not Confirmed, Cancel, Refund&amp;nbsp;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uvfs7xpbPP3zaYpU90Q_-53">
+          <mxGeometry y="30" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uvfs7xpbPP3zaYpU90Q_-55" value="&lt;b&gt;Payment methods: manual payment/ auto payment with Commission rate&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uvfs7xpbPP3zaYpU90Q_-53">
+          <mxGeometry y="110" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uvfs7xpbPP3zaYpU90Q_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="uvfs7xpbPP3zaYpU90Q_-4" source="uvfs7xpbPP3zaYpU90Q_-16">
           <mxGeometry relative="1" as="geometry">
